@@ -1,0 +1,1625 @@
+@media only screen and (min-width: 991px) {
+    .triggerBtn {
+        display: none;
+    }
+
+    .logo-sec1 {
+        display: none;
+    }
+
+    .sidebar-overlay {
+        display: none;
+    }
+}
+@media only screen and (min-width: 769px) {
+    .tootsEllipes1.tool-responsive {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .topHeader .right-section {
+        padding:12px 0px 12px 0px;
+    }
+    .leadderFirst .leader1 .cardLeader .leaderHead h4{
+        min-height: auto;
+    }
+    .blog-card .blog-para {
+        padding: 0px 15px;
+    }
+    .blog-card .blog-head-sec {
+        padding: 15px;
+    }
+    .blog-card .blog-view {
+        padding: 0px 15px;
+    }
+    .blog-card .blog-view ul a {
+        font-size: 11px;
+    }
+    .blog-card .blog-view ul a img {
+        max-width: 12px;
+    }
+    .leadderFirst .cardLeader .leaderHead h4{
+        min-height: 53px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .leadderFirst .cardLeader .leaderPar p{
+        min-height: 81px;
+    }
+    .servicesBtn {
+        display: flex;
+        justify-content: normal;
+        flex-wrap: wrap;
+        margin-left: -9px;
+    }
+    .servicesBtn div {
+        margin-left: 9px;
+        margin-top: 15px;
+    }
+    .servicesBtn .btnSecond2 div {
+        margin-left: 0px;
+
+    }
+    .servicesBtn .btnfirst1 div {
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+    .services-section-st.aboutPage2 .card-serv{
+        min-height: auto;
+    }
+    .card-main .card-head h5 {
+        font-size: 22px;
+    }
+    .blogDetailPage .blog-card .blog-view ul a {
+        font-size: 13px;
+    }
+    .mainDetailBlog {
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    ul.main-nav>li>a.mega-menu.active span:after {
+        transform: rotate(-135deg);
+        margin-bottom: -4px;
+        top: 20px;
+    }
+    .main-process {
+        min-height: 160px;
+    }
+    .about-page {
+        padding-top: 80px;
+    }
+    .leadderFirst .leader1 .cardLeader .leaderHead h4 {
+        min-height: 53px;
+    }
+    .blog-header-menu ul li a {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+    .blogDetailPage .mainDetailBlog {
+        padding: 0px;
+    }
+    .NextTopic {
+        margin-bottom: 30px;
+    }
+    .blog-header-menu ul li.active a {
+        padding: 6px 25px;
+    }
+    .positionSicky {
+        margin-bottom: 40px;
+    }
+    .careerSection .linerCard .careerHead h6 {
+        font-size: 25px;
+    }
+    .careerSection .linerCard .careerHead ul li{
+        font-size: 14px;
+    }
+    .careerSection .linerCard .applyBtn a{
+        padding: 10px 0px;
+        max-width: 120px;
+        font-size: 12px;
+    }
+    .about-imagePage {
+        justify-content: center;
+        margin-top: 50px;
+    }
+    .bannerSection .banner-main .banner-heading h4 {
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+    .services-section-st .main-services .services-content p {
+        font-size: 15px;
+    }
+    body.active{
+        overflow: hidden;
+        padding-right: 17px;
+    }
+    .oddEvenImg li .toolsImg div{
+        min-height: 78px;
+    }
+    .topHeader .right-section div.Number1 span {
+        display: none;
+    }
+    .about-section-st .main-about .about-para p{
+        font-size: 15px;
+        padding-top: 16px;
+        line-height: 23px;
+    }
+    .sendMessageBtn {
+        margin-bottom: 50px;
+    }
+
+    ul.main-nav>li ul.sub-menu-lists {
+        display: none;
+        border-bottom: 1px solid rgb(29 28 28 / 10%);
+        padding: 10px;
+    }
+    ul.main-nav>li>a.mega-menu>span:after {
+        width: 9px;
+        height: 9px;
+        position: absolute;
+        right: 25px;
+        top: 15px;
+    }
+
+    .triggerBtn {
+        display: block;
+        position: relative;
+    }
+
+    .slider-content-js .slick-dots {
+        padding-top: 0;
+    }
+
+    .main-services {
+        padding: 40px 0px;
+    }
+
+    .slider-heading h3 {
+        font-size: 34px;
+        line-height: 47px;
+    }
+    .card-serv .services-title h5{
+        line-height: 33px;
+    }
+    .services-section-st .main-services .services-heading h3 {
+        line-height: normal;
+        font-size: 35px;
+    }
+
+    .about-section-st .main-about .about-heading h3,
+    .about-section-st .main-about .about-heading h1 {
+        line-height: normal;
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+    .footer-section {
+        padding: 40px 0px;
+    }
+    .toolTechnology .main-work-title .heading-content h3{
+        font-size: 35px;
+        margin-bottom: 14px;
+    }
+    .heading-drivenProcess h3{
+        font-size: 35px;
+        margin-bottom: 14px;
+    }
+    .heading-blockchainSolition h3{
+        font-size: 35px;
+        margin-bottom: 14px;
+    }
+    .heading-contactSection h3{
+        font-size: 35px;
+    }
+    .main-process br{
+        display: none;
+    }
+    .blockchain-title h5{
+        line-height: 34px;
+    }
+    .heading-contactSection h3{
+        padding-bottom: 14px;
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(odd) .process-para p{
+        font-size: 14px;
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(even) .process-para p{
+        font-size: 14px;
+    }
+    .main-drivenProcessr .process-box ul li .process-heading h4{
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .footer-copy {
+        padding-top: 30px;
+    }
+    /***------MenuSiderBar-----****/
+    .main-header .nav-section .nav-content .menu-list {
+        max-width: 375px;
+        width: 100%;
+        min-height: 100vh;
+        box-shadow: 0px 4px 8px rgb(0 0 0 / 16%);
+        background-color: #fff;
+        position: fixed;
+        top: 0;
+        left: -100%;
+        z-index: 1001;
+        transition: 0.5s;
+        overflow: auto;
+    }
+    .main-header .nav-section .nav-content .menu-list.active {
+        left: 0;
+    }
+
+    .menu-list ul.main-nav>li {
+        display: block;
+    }
+
+    .logo-sec1 img {
+        width: 100%;
+        max-width: 140px;
+    }
+
+    .logo-sec1 {
+        padding: 20px 15px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .logo-sec1 span {
+        display: flex;
+        align-items: center;
+    }
+
+    ul.main-nav>li>a {
+        padding: 10px 15px;
+    }
+
+    .logo-sec1 .times1 {
+        cursor: pointer;
+        position: relative;
+        width: 25px;
+        height: 24px;
+    }
+
+    .logo-sec1 .times1 i::before {
+        content: "";
+        position: absolute;
+        top: 10px;
+        left: 0;
+        transform: rotate(45deg);
+        width: 25px;
+        height: 2px;
+        background: #2B2455;
+        border-radius: 3px;
+    }
+
+    .logo-sec1 .times1 i::after {
+        content: "";
+        position: absolute;
+        top: 10px;
+        left: 0;
+        transform: rotate(-45deg);
+        width: 25px;
+        height: 2px;
+        background: #2B2455;
+        border-radius: 3px;
+    }
+
+    ul.main-nav>li>div.sub-menu-block.subMenuList {
+        width: 100%;
+        padding: 0px 15px;
+        transition: all .3s ease-in-out;
+        box-shadow: 0px 2px 7px #1d1c1c33;
+        height: 0px;
+        opacity: 0;
+    }
+
+    ul.main-nav>li>div.sub-menu-block.subMenuList.active {
+        height: 100%;
+        opacity: 1;
+    }
+
+    /****----ToggleSlider Overlay css-----****/
+    .sidebar-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.4);
+        transition: 0.5s;
+        opacity: 0;
+        z-index: 1000;
+        visibility: hidden;
+    }
+
+    .sidebar-overlay.active {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .sub-menu-block {
+        display: none;
+        box-shadow: 0px 1px 1px rgb(29 28 28 / 10%);
+    }
+
+    .sub-menu-block.active {
+        padding-top: 0px;
+        box-shadow: 0px 0px 2px rgb(29 28 28 / 20%);
+        display: block;
+    }
+
+    ul.main-nav>li ul.sub-menu-lists>li {
+        padding: 5px 0;
+    }
+
+    ul.main-nav>li:hover>a.mega-menu span:after {
+        border-color: #E72078;
+    }
+
+    .sub-menu-block .sub-menu-head {
+        font-size: 16px;
+        color: rgba(18, 18, 18, 0.87);
+        font-weight: 400;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+    .single1 .sub-menu-head {
+        margin-bottom: 20px;
+    }
+    .single1 .sub-menu-head.consulting {
+        margin-bottom: 10px;
+    }
+    .sub-menu-block .sub-menu-head:hover {
+        color: #E72078;
+    }
+    ul.main-nav>li ul.sub-menu-lists.active {
+        display: block;
+    }
+
+    .sub-menu-block .sub-menu-head:after {
+        width: 8px;
+        height: 8px;
+        content: "";
+        top: 14px;
+        right: 25px;
+        position: absolute;
+        background-color: transparent;
+        display: inline-block;
+        display: none;
+        margin-left: 10px;
+        border: 1px solid rgba(18, 18, 18, 0.87);
+        border-top: none;
+        border-left: none;
+        margin-bottom: 2px;
+        transform: rotate(45deg);
+        transition: all .3s ease-in;
+    }
+    .sub-menu-block .single1 .sub-menu-head:after{
+        display: none;
+    }
+    .sub-menu-block .sub-menu-head:hover::after {
+        border-color: #E72078;
+    }
+
+    .sub-menu-block .sub-menu-head.active::after {
+        transform: rotate(-135deg);
+        top: 20px;
+    }
+    .process-flow:before{
+        bottom: -27px;
+    }
+    .developerT ul li {
+        max-width: 175px;
+        font-size: 12px;
+    }
+    .commitments ul li {
+        font-size: 12px;
+        max-width: 175px;
+    }
+    .dhanux ul li{
+        font-size: 30px;
+        max-width: 80px;
+        height: 68px;
+    }
+    .developerT {
+        padding-top: 25px;
+    }
+    .commitments {
+        padding-top: 25px;
+    }
+    .contact-address {
+        padding-top: 0;
+    }
+}
+@media only screen and (max-width:768px){
+    .tootsEllipes1.tool-desktop {
+        display: none;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .tootsEllipes1.tool-desktop {
+        display: none;
+    }
+    .topHeader .col-md-8 {
+        display: none;
+    }
+    .blog-header-menu ul li a {
+        margin: 5px 0px;
+    }
+    .services-section-st .card-serv {
+        padding: 15px;
+        margin: 15px auto;
+        height: calc(100% - 30px);
+    }
+    .blog-card .blog-view ul a {
+        font-size: 9px;
+    }
+    .mainDetailBlog .blog-head-sec h5 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .mainDetailBlog .blog-para p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .blog-card .blog-head-sec {
+        padding-bottom: 6px;
+    }
+    .blog-card .blog-view {
+        margin-bottom: 20px;
+    }
+    .blog-header-menu ul {
+        flex-wrap: wrap;
+    }
+    .search-bar input[type="search"]{
+        padding: 7px 10px;
+        padding-right: 30px;
+    }
+    .search-bar span img{
+        max-width: 16px;
+    }
+    .search-bar span {
+        top: 6px;
+    }
+    .careerSection .careerHeading p {
+        font-size: 25px;
+    }
+    .careerSection .linerCard .applyBtn{
+        margin-top: 10px;
+    }
+    .about-page {
+        padding-top: 80px;
+    }
+    .contact-address .con-address{
+        margin-bottom: 20px;
+    }
+    .contact-address .con-address.con-email {
+        border-bottom: 1px solid #EEEEEE;
+        border-right: 1px solid #EEEEEE;
+    }
+    .contact-address .con-address.con-location {
+        border-right: 1px solid #EEEEEE;;
+    }
+    .contact-address .col-12 {
+        padding: 0px 15px;
+    }
+    .card-serv .services-title h5{
+        font-size: 24px;
+    }
+    .contact-address .con-address span {
+        left: 13px;
+    }
+    .services-section-st .card-serv .services-title{
+        padding-bottom: 0px;
+    }
+    .mission-section {
+        margin-top: 30px;
+    }
+    .service-content-para p{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .services-section-st .learnMore b span img {
+        max-width: 20px;
+    }
+    .about-section-st .main-about .about-btn a:hover span {
+        padding-left: 6px;
+    }
+    .services-section-st .learnMore b{
+        font-size: 14px;
+    }
+    .oddEvenImg li .toolsImg div{
+        min-height: 50px;
+    }
+    .oddEvenImg li .toolsImg div{
+        margin-bottom: 10px;
+        margin-right: 10px;
+        padding: 7px;
+    }
+    .blockchain-title h5{
+        padding: 15px 15px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    
+    .contactSection .contactF .inputField div {
+        margin-bottom: 20px;
+    }
+    .blockchain-para p {
+        font-size: 14px;
+        line-height: 23px;
+        padding: 0px 15px;
+    }
+    .card-block .learnMore {
+        margin-bottom: 25px;
+        padding-left: 15px;
+    }
+    .card-block .learnMore a{
+        font-size: 15px;
+    }
+    .card-block .learnMore a span img {
+        max-width: 17px;
+    }
+    .blockchainSolition .card-block:hover .learnMore a span{
+        margin-left: 6px;
+    }
+    .oddEvenImg li {
+        margin-right: 10px;
+    }
+    .oddEvenImg li:nth-child(odd) {
+        margin-top: 30px;
+    }
+    .contactF .marginLeft {
+        padding-left: 15px !important;
+    }
+    .topHeader .right-section{
+        padding: 8px 0px 8px 0px;
+    }
+    .about-section-st .main-about .about-heading h3, .about-section-st .main-about .about-heading h1{
+        text-align: center;
+    }
+    .about-section-st .main-about .about-content{
+        text-align: center;
+    }
+    .about-section-st .main-about .about-para p{
+        text-align: center;
+    }
+    .about-section-st .main-about .about-btn a{
+        text-align: center;
+    }
+    .slider-heading h3 {
+        line-height: normal
+    }
+    .slider-heading h3 span.sliderUline img {
+        display: none;
+    }
+    section.slider-section.slider-content-js .slider1{
+        height: 530px;
+    }
+    .slider-heading h3 span.sliderUline span {
+        color: #024099;
+    }
+
+    .slider-heading h3 {
+        font-size: 34px;
+    }
+    .card-serv .services-icon {
+        padding: 20px 0px 25px 0px;
+    }
+
+    .services-section-st {
+        padding-bottom: 0px;
+    }
+    .learnMore {
+        bottom: 25px;
+    }
+    .blockchainSolition .card-block .learnMore{
+        bottom: 0px;
+    }
+
+    .topHeader .right-section div.Number1 span {
+        display: inline-block;
+    }
+
+    .card-main .content-assists {
+        padding-left: 39px;
+        padding-top: 10px;
+    }
+    .footermenu1 {
+        margin-top: 30px;
+    }
+
+    .copy-right p {
+        text-align: center;
+        padding-bottom: 0px;
+        padding-top: 10px;
+        border-top: 1px solid hsl(249deg 31% 37%);
+    }
+
+    .footer-social-icon ul {
+        justify-content: center;
+    }
+
+    .footer-social-icon ul li a {
+        width: 25px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-social-icon ul li a img{
+        max-width: 25px;
+    }
+    .footer-social-icon ul li a i {
+        font-size: 16px;
+    }
+    .slider-section .slider-content {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .slider-heading {
+        margin-top: 8px;
+    }
+    .developerT ul{
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .developerT {
+        padding-top: 0px;
+    }
+    .developerT ul li {
+        margin-top: 25px;
+    }
+    .commitments{
+        width: 100%;
+        padding-top: 0px;
+    }
+    .commitments ul{
+        flex-wrap: wrap;
+    }
+    .commitments ul li{
+        margin-top: 25px;
+    }
+}
+
+@media (max-width:600px) {
+    .services-section-st .card-serv {
+        max-width: 325px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .nav-section .nav-content .logo-sec .logoTitle {
+        padding-left: 0px;
+    }
+    .slider-section .slider-content {
+        padding-top: 25px;
+    }
+    .main-process {
+        min-height: auto;
+    }
+    .copy-right {
+        padding-bottom: 30px;
+    }
+    .blog-header-menu {
+        padding-bottom: 30px;
+    }
+    .mainDetailBlog .blog-head-sec h5 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .oddEvenImg li .toolsImg div {
+        min-height: 40px;
+    }
+    .blog-card {
+        margin: auto;
+        margin-bottom: 25px;
+        max-width: 320px;
+    }
+    .blogDetailPage .blog-card {
+        max-width: 400px;
+    }
+    .backBtn h5 {
+        text-align: center;
+    }
+    .NextTopic {
+        text-align: center;
+    }
+    .mainDetailBlog .shareOn ul li:not(:last-child) {
+        margin-right: 10px;
+    }
+    .mainDetailBlog .shareOn ul li a div span {
+        width: 40px;
+        height: 40px;
+    }
+    .mainDetailBlog .shareOn ul li a div span  img{
+        max-width: 16px;
+    }
+    .mainDetailBlog .shareOn ul li a div p {
+        font-size: 11px;
+    }
+    .mainDetailBlog .shareOn ul {
+        flex-wrap: wrap;
+    }
+    .mainDetailBlog .shareOn ul li{
+        margin-bottom: 10px;
+    }
+    .blog-card .blog-view ul a {
+        font-size: 12px;
+    }
+    .blog-card .blog-view ul a img {
+        max-width: 14px;
+    }
+    .descriptionSection ul li {
+        font-size: 16px;
+        line-height: 28px;
+        margin-bottom: 10px;
+    }
+    .uploadCv .submitBtn a{
+        padding: 10px 0px;
+        max-width: 250px;
+        font-size: 12px;
+    }
+    .about-paraPage {
+        padding-top: 25px;
+    }
+    .careerSection .careerHeading p {
+        text-align: center;
+    }
+    .careerSection .linerCard{
+        padding: 15px;
+    }
+    .about-page .about-heading-page h2{
+        margin-bottom: 0px;
+    }
+    .bannerSection .banner-main .banner-heading h4 {
+        padding-bottom: 10px;
+        font-size: 28px;
+    }
+    .services-section-st .main-services .services-content p {
+        font-size: 14px;
+        line-height: 26px;
+        width: 90%;
+        margin: auto;
+    }
+    .servicePage .main-services {
+        padding-bottom: 40px;
+    }
+    .about-page {
+        padding-top: 70px;
+    }
+    .leadderFirst .leader1 .cardLeader .leaderHead h4 {
+        min-height: auto;
+    }
+    .leadderFirst .cardLeader .leaderPar p {
+        min-height: auto;
+    }
+    .leadderFirst .cardLeader .leaderHead h4 {
+        min-height: auto;
+    }
+    .contact-address .con-address span img{
+        max-width: 25px;
+    }
+    .contact-address .con-address h5{
+        font-size: 15px;
+    }
+    .contact-address .con-address h4 {
+        font-size: 17px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .contact-address .con-address p {
+        font-size: 18px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .contact-address .con-address {
+        padding-left: 50px;
+    }
+    .dhanux ul li {
+        font-size: 24px;
+        max-width: 50px;
+        height: 50px;
+    }
+    .leadderFirst .leader1 .col-md-4 {
+        max-width: 350px;
+    }
+    .leadderFirst .leader2 .col-md-4 {
+        max-width: 350px;
+    }
+    .leadderFirst .leader2{
+        justify-content: center;
+    }
+    .main-header .logo-sec img {
+        max-width: 150px;
+        width: 100%;
+    }
+    .services-section-st .card-serv:hover .learnMore b span {
+        margin-left: 6px;
+    }
+    .main-work-title{
+        text-align: center;
+    }
+    .about-section-st .main-about .about-para p {
+        width: 90%;
+        margin: auto;
+    }
+    .footer-right-side ul {
+        padding-left: 0px;
+    }
+
+    .footer-section {
+        padding-bottom: 0px;
+    }
+
+    .slider-heading h3 {
+        font-size: 30px;
+    }
+    .contactSection .contactF .inputField div span img{
+        max-width: 18px;
+    }
+    .contactSection .contactF .textareaBox span img{
+        max-width: 18px;
+    }
+    .form-control::placeholder {
+        font-size: 15px;
+    }
+    .contactSection .servicesBtn div a {
+        font-size: 14px;
+        padding: 10px 17px;
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(odd) {
+        flex-direction: inherit;
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(even) .process-flow {
+        transform: translate(0px, 0px);
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(odd) .process-flow {
+        transform: translate(0px, 0px);
+    }
+    .main-process {
+        padding: 0px 20px 0px 30px;
+        width: calc(100% - 60px);
+        margin: 0px 0px 32px;
+    }
+    .main-drivenProcessr .process-box ul li .process-heading h4 {
+        font-size: 24px;
+    }
+    .main-drivenProcessr .process-box ul li {
+        width: 100%;
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(odd) .process-heading {
+        text-align: left;
+    }
+    .main-drivenProcessr .process-box ul li:nth-child(odd) .process-para p {
+        text-align: left;
+    }
+    .contactSection .sendMessageBtn a {
+        max-width: 183px;
+        font-size: 14px;
+        padding: 11px 0px;
+    }
+    .about-section-st .main-about .about-heading h3,
+    .about-section-st .main-about .about-heading h1 {
+        font-size: 30px;
+        margin-top: 12px;
+    }
+
+    .services-section-st .main-services .services-heading h3 {
+        font-size: 30px;
+        margin-top: 12px;
+    }
+
+    .card-serv .services-title h5 {
+        font-size: 25px;
+    }
+
+    .main-work-title .heading-content h3 {
+        font-size: 30px;
+        margin-top: 12px;
+    }
+    .main-work-title .heading-content h3 br{
+        display: none;
+    }
+    .card-main .content-assists {
+        padding-left: 27px;
+    }
+    .services-section-st {
+        padding-bottom: 60px;
+    }
+    .heading-drivenProcess h3 {
+        font-size: 30px;
+        margin-top: 100px;
+    }
+    .heading-blockchainSolition h3 {
+        font-size: 30px;
+    }
+    .services-section-st .card-serv {
+        height: auto;
+        padding: 20px;
+    }
+    .blockchainSolition .card-block {
+        max-width: 325px;
+        margin: 15px auto;
+    }
+    .heading-contactSection {
+        padding-top: 65px;
+    }
+    .heading-contactSection h3 {
+        font-size: 30px;
+    }
+    .toolTechnology .main-work-title .heading-content h3 {
+        font-size: 30px;
+        margin-bottom: 14px;
+        padding: 0;
+    }
+    .about-section-st .main-about .about-btn a:hover span {
+        padding-left: 5px;
+    }
+
+    .container,
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .slider-content .slider-btn a {
+        padding: 8px 20px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .footer-center .second-menu h6 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+
+    .footer-right-side h6 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+
+    .footer-middle-side h6 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+
+    .footer-middle-side .footer-middle-menu {
+        display: block;
+    }
+
+    .footermenu1 {
+        margin-top: 10px;
+    }
+    .triggerBtn .trigger1 span {
+        height: 2px;
+    }
+
+    .trigger1 span:nth-child(2) {
+        top: 12px;
+    }
+    .dhanux-responsive ul li .text-token span{
+        min-width: 60px;
+        height: 60px;
+        font-size: 25px;
+    }
+    .dhanux-responsive ul li .text-conten div{
+        height: 60px;
+        font-size: 12px;
+    }
+    .dhanux-responsive ul{
+        padding-left: 0px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .main-header .logo-sec img {
+        width: 150px;
+    }
+    .dhanux-responsive .text-token {
+        margin-right: 15px;
+    }
+    .dhanux-responsive ul li .text-conten div{
+        max-width: 195px;
+        min-width: 195px;
+    }
+    .dhanux-responsive ul li:nth-child(even),.dhanux-responsive ul li{
+        justify-content: center;
+    }
+    .blog-card .blog-head-sec h5 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .NextTopic h6 a {
+        font-size: 14px;
+    }
+    .backBtn h5 a {
+        font-size: 14px;
+    }
+    .backBtn h5 a img{
+        max-width: 18px;
+    }
+    .blogDetailPage .blog-card .blog-view ul a {
+        font-size: 11px;
+    }
+    .footer-social-icon ul li {
+        padding-right: 20px;
+    }
+    .blog-card .blog-para p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .blog-card .blog-head-sec {
+        padding-bottom: 15px;
+    }
+    .blog-card .blog-view {
+        margin-top: 10px;
+    }
+    .blog-side-bar ul li a .blogSideLink h6 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .blog-side-bar ul li a .blogSideLink p {
+        font-size: 12px;
+    }
+    .blog-side-bar ul li a .blogNumber span {
+        font-size: 14px;
+    }
+    .about-page .about-heading-page h2{
+        font-size: 23px;
+    }
+    .descriptionSection h6 {
+        font-size: 23px;
+    }
+    .uploadCvFiles ::-webkit-file-upload-button{
+        padding: 9px 70px 9px 10px;
+    }
+    label.fileNamec a {
+        font-size: 14px;
+        top: 24px;
+    }
+    .search-bar input[type="search"] {
+        padding: 5px 10px;
+    }
+    .search-bar span {
+        top: 4px;
+    }
+    .blog-heading h4 {
+        font-size: 23px;
+        margin-bottom: 35px;
+    }
+    .blog-header-menu ul li a {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .blog-header-menu ul li.active a {
+        padding: 5px 20px;
+    }
+    .uploadCv .uploadCvFiles a.upImg{
+        max-width: 18px;
+    }
+    .uploadCv .uploadCvFiles a.upImg {
+        top: 22px;
+    }
+    .uploadCv .uploadCvFiles div a {
+        font-size: 14px;
+        padding: 10px 55px 10px 10px;
+    }
+    .uploadCv .uploadCvFiles div a small{
+        max-width: 20px;
+    }
+    .uploadCv h6{
+        font-size: 14px;
+    }
+    .descriptionSection p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .descriptionSection ul {
+        padding-top: 10px;
+    }
+    .descriptionSection ul li {
+        font-size: 14px;
+        margin-bottom: 10px;
+        line-height: 26px;
+    }
+    .bannerSection .banner-main .banner-heading h4 {
+        font-size: 23px;
+    }
+    .careerSection .linerCard .careerHead h6 {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .careerSection .linerCard .careerHead ul {
+        display: block;
+        text-align: center;
+    }
+    .careerSection .linerCard .careerHead ul li{
+        list-style-type: none;
+    }
+    .careerSection .linerCard .applyBtn{
+        justify-content: center;
+    }
+    .bannerSection .banner-main .banner-para p {
+        font-size: 14px;
+    }
+    .careerSection {
+        padding-bottom: 40px;
+        padding-top: 55px;
+    }
+    .careerSection .careerHeading p {
+        font-size: 23px;
+    }
+    .about-page .about-heading-page p {
+        font-size: 14px;
+    }
+    .about-page {
+        padding-top: 55px;
+    }
+    .contact-address .con-address span img {
+        max-width: 20px;
+    }
+    .contact-address .con-address h5 {
+        font-size: 14px;
+    }
+    .serviceHead h4 {
+        font-size: 23px;
+        margin-bottom: 30px;
+    }
+    .serviceHead p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .serviced-section .serviced-heading h5 {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .serviced-section .serviced-heading h5 span {
+        padding-right: 7px;
+    }
+    .serviced-section .serviced-heading h5 span img {
+        max-width: 18px;
+    }
+    .contact-address .con-address h4 {
+        font-size: 16px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+    }
+    .contact-address .con-address p {
+        font-size: 16px;
+        padding-bottom: 13px;
+        padding-top: 13px;
+    }
+    .contact-address .con-address {
+        margin-bottom: 15px;
+    }
+    .about-paraPage {
+        padding-top: 25px;
+    }
+    .about-paraPage p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .about-btnPage a {
+        font-size: 14px;
+        padding: 8px 11px;
+    }
+    .about-btnPage {
+        display: flex;
+        justify-content: center;
+    }
+    .vision-heading h3 {
+        font-size: 23px;
+        margin-bottom: 30px;
+    }
+    .vision-para p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .mission-heading h3 {
+        font-size: 23px;
+        margin-bottom: 30px;
+    }
+    .mission-para p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .heading-ourValues h3 {
+        font-size: 23px;
+        padding-top: 50px;
+    }
+    .dhanux ul li {
+        font-size: 22px;
+        max-width: 43px;
+        height: 43px;
+    }
+    .valuesDhanu {
+        padding: 50px 0px;
+        width: 100%;
+    }
+    .leaderHeading h3 {
+        font-size: 23px;
+    }
+    .leaderPara p {
+        font-size: 14px;
+    }
+    .leadderFirst .leader1 .cardLeader .leaderHead h4 {
+        font-size: 20px;
+    }
+    .leadderFirst .cardLeader .leaderPar p {
+        font-size: 12px;
+    }
+    .social-icons ul li a {
+        max-width: 40px;
+        width: 40px;
+        height: 40px;
+    }
+    .social-icons ul li a img {
+        top: calc(50% - 10px);
+        left: calc(50% - 10px);
+        max-width: 20px;
+    }
+    section.slider-section.slider-content-js .slider1{
+        height: 420px;
+    }
+    .main-about-image .about-image img {
+        max-width: 185px;
+    }
+    .toolTechnology .main-work-title .heading-content h3{
+        font-size: 25px;
+    }
+    .toolTechnology .main-work-title .para-content p{
+        font-size: 14px;
+        width: 90%;
+    }
+    .oddEvenImg li{
+        margin-right: 5px;
+    }
+    .oddEvenImg li:last-child{
+        margin-right: 0px;
+    }
+    .oddEvenImg li .toolsImg div {
+        margin-bottom: 5px;
+        margin-right: 5px;
+        padding: 2px;
+    }
+    .oddEvenImg li .toolsImg div {
+        min-height: 30px;
+    }
+    .toolTechnology .main-work-title .para-content {
+        margin-bottom: 40px;
+    }
+    .para-drivenProcess p {
+        font-size: 14px;
+    }
+    .process-flow {
+        width: 45px;
+    }
+    .main-process {
+        padding: 0px 0px 0px 15px;
+        margin: 0px 0px 25px;
+    }
+    .process-flow:before {
+        bottom: -20px;
+        left: 11px;
+    }
+    .main-drivenProcessr .process-box ul li .process-heading h4 {
+        font-size: 23px;
+    }
+    .form-control{
+        font-size: 14px;
+    }
+    .contactSection .servicesHeading{
+        font-size: 14px;
+    }
+    .main-drivenProcessr {
+        padding-top: 50px;
+    }
+    .blockchainSolition-title {
+        margin-top: 50px;
+    }
+    .heading-blockchainSolition h3 {
+        font-size: 25px;
+    }
+    .para-blockchainSolition p {
+        font-size: 14px;
+    }
+    .blockchain-title h5 {
+        font-size: 23px;
+        line-height: 29px;
+    }
+    .card-block .learnMore a {
+        font-size: 14px;
+    }
+    .heading-contactSection {
+        padding-top: 50px;
+    }
+    .heading-contactSection h3 {
+        font-size: 25px;
+    }
+    .para-contactSection p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .heading-drivenProcess h3 {
+        font-size: 25px;
+        margin-top: 60px;
+    }
+    .footer-middle-menu ul li:not(:last-child) {
+        margin-bottom: 0px;
+    }
+    .footer-center .second-menu li:not(:last-child) {
+        margin-bottom: 0px;
+    }
+    .footer-right-side ul li:not(:last-child) {
+        margin-bottom: 0px;
+    }
+    .contactSection .contactF .inputField input {
+        height: 40px;
+        padding-right: 30px;
+    }
+    .contactSection .contactF .inputField div span {
+        right: 8px;
+        top: 7px;
+    }
+    .contactSection .contactF .textareaBox span {
+        right: 8px;
+    }
+
+    .servicesHeading{
+        margin-top: 35px;
+        margin-bottom: 10px;
+    }
+    .servicesBtn div a{
+        font-size: 14px;
+        padding: 8px 12px;
+        border-radius: 6px;
+    }
+    .sendMessageBtn a{
+        font-size: 14px;
+        padding: 12px 0px;
+    }
+    .form-control::placeholder{
+        font-size: 14px;
+    }
+    .slider-section .slider-img img {
+        width: 100%;
+    }
+    .trigger1 span:nth-child(2) {
+        height: 2px;
+    }
+
+    .triggerBtn .trigger1 {
+        width: 25px;
+        height: 20px;
+    }
+
+    .topHeader .right-section div img {
+        width: 18px;
+        height: 18px;
+    }
+    .trigger1 span:nth-child(1) {
+        top: 1px;
+    }
+    .trigger1 span:nth-child(2) {
+        top: 9px;
+    }
+    .triggerBtn .trigger1.active span:nth-child(1){
+        top: 7px;
+    }
+    .trigger1 span:nth-child(3) {
+        bottom: 1px;
+    }
+    .triggerBtn .trigger1.active span:nth-child(3){
+        bottom: 10px;
+    }
+    .slider-content .slider-para p {
+        font-size: 14px;
+    }
+
+    .slider-heading h3 {
+        font-size: 25px;
+    }
+
+    .about-section-st .main-about .about-content {
+        font-size: 14px;
+    }
+
+    .about-section-st .main-about .about-heading h3,
+    .about-section-st .main-about .about-heading h1 {
+        font-size: 25px;
+    }
+
+    .about-section-st .main-about .about-para p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .about-section-st .main-about .about-btn a {
+        margin-top: 16px;
+        font-size: 14px;
+    }
+
+    .services-section-st .main-services .services-content {
+        font-size: 14px;
+    }
+
+    .services-section-st .main-services .services-heading h3 {
+        font-size: 25px;
+    }
+
+    .card-serv .services-title h5 {
+        font-size: 23px;
+    }
+
+    .service-content-para p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .card-main .card-head h5 {
+        font-size: 20px;
+    }
+
+    .card-main .content-assists {
+        padding-left: 18px;
+    }
+
+    .card-main .card-para p {
+        padding-top: 10px;
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .card-main .card-number div {
+        width: 44px;
+        height: 44px;
+        font-size: 20px;
+    }
+
+    .card-main .card-number div span {
+        width: 44px;
+        height: 44px;
+    }
+    .footer-logo img {
+        width: 100px;
+    }
+
+    .footer-logo {
+        padding-bottom: 15px;
+    }
+
+    .footer-left-side .footer-head h5 {
+        font-size: 22px;
+    }
+
+    .footer-address p {
+        font-size: 14px;
+    }
+
+    .footer-phone p {
+        font-size: 14px;
+    }
+
+    .footer-phone {
+        padding-top: 6px;
+    }
+
+    .footer-middle-side .footer-middle-menu {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .footer-middle-side h6 {
+        margin-bottom: 5px;
+    }
+
+    .footer-middle-menu ul li a {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .footer-center {
+        margin-bottom: 10px;
+    }
+
+    .footer-center .second-menu h6 {
+        margin-bottom: 5px;
+    }
+
+    .footer-center .second-menu li a {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .footer-right-side h6 {
+        margin-bottom: 5px;
+    }
+
+    .footer-right-side ul li a {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .footer-copy {
+        padding-top: 25px;
+    }
+
+    .copy-right p {
+        font-size: 14px;
+        padding-bottom: 10px;
+        line-height: 20px;
+    }
+
+    .footer-social-icon ul li a {
+        width: 35px;
+        height: 35px;
+    }
+    .footer-social-icon ul li a img{
+        max-width: 20px;
+    }
+    .footer-social-icon ul li a i {
+        font-size: 14px;
+    }
+
+}
+
+@media only screen and (max-width: 340px) {
+    .topHeader .right-section div img {
+        width: 16px;
+        height: 16px;
+    }
+
+    .topHeader .right-section div a {
+        font-size: 11px;
+    }
+
+    .nav-section .nav-content .logo-sec .logoTitle {
+        font-size: 20px;
+    }
+
+    .main-header .logo-sec img {
+        width: 120px;
+    }
+
+    .triggerBtn .trigger1 {
+        width: 20px;
+        height: 17px;
+        display: inline-block;
+    }
+    .trigger1 span:nth-child(1) {
+        top: 2px;
+    }
+    .trigger1 span:nth-child(2) {
+        top: 9px;
+    }
+    .trigger1 span:nth-child(3) {
+        bottom: -2px;
+    }
+    .slider-content .slider-btn a {
+        padding: 6px 11px;
+        font-size: 11px;
+    }
+    .blog-card .blog-view ul a {
+        font-size: 10px;
+    }
+    .blog-side-bar ul li a .blogSideLink h6 {
+        font-size: 13px;
+    }
+    .blog-side-bar ul li a .blogSideLink p {
+        font-size: 11px;
+    }
+    .side-bar-social ul li a div p {
+        font-size: 10px;
+    }
+    .side-bar-social ul li:not(:last-child) {
+        margin-right: 10px;
+        margin-bottom: 16px;
+    }
+}
